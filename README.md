@@ -29,10 +29,13 @@ docker run -d \
   -p 8082:80 \
   -v $(pwd)/site:/usr/share/nginx/html \
   nginx
+```
 Then open: http://<your-vm-ip>:8082
 ________________________________________
 Option 2: Run with Docker Compose
+```bash
 docker compose up -d
+```
 Then open: http://<your-vm-ip>:8083
 🔐 Make sure the corresponding ports (8082, 8083) are allowed in your Azure NSG rules.
 ________________________________________
