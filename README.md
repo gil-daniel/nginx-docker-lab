@@ -37,6 +37,7 @@ Option 2: Run with Docker Compose
 docker compose up -d
 ```
 Then open: http://your-vm-ip:8083
+
 🔐 Make sure the corresponding ports (8082, 8083) are allowed in your Azure NSG rules.
 ________________________________________
 🌍 Environment
