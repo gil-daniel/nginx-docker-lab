@@ -1,0 +1,31 @@
+# Ignore Docker-related artifacts
+*.tar
+*.log
+
+# Ignore Docker named volumes (if used locally)
+volumes/
+data/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# SSH or credential files (por precaução)
+*.pem
+*.pub
+*.key
+id_*
+
+# Editor/IDE configs
+.vscode/
+.idea/
+
+# Node or Python (caso estenda o projeto depois)
+node_modules/
+__pycache__/
+*.pyc
+
+# Backup files
+*~
+*.swp
+
