@@ -59,6 +59,10 @@ ________________________________________
 * Set up CI/CD pipeline using GitHub Actions
 * Deploy the stack to AKS or Azure Container Apps
 ________________________________________
+## ✅ Project Status
+
+This project has reached its initial goal as a self-contained NGINX container lab and has been marked as complete for version 1.0.0. While future enhancements (such as CI/CD, HTTPS, and backend orchestration) are noted, no further updates are currently planned. Feel free to fork and expand it. Thanks for following along!
+________________________________________
 🤝 Author Daniel Gil  
 💻 DevOps/SRE in Progress  
 📍 Hosted on GitHub  
