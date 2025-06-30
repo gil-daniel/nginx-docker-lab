@@ -1,4 +1,7 @@
+
 # nginx-docker-lab 🚀
+
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 A hands-on Docker project that sets up a custom NGINX container with persistent volumes and orchestration using Docker Compose. Built and deployed on an Ubuntu VM hosted in Azure, as part of a personal DevOps/SRE learning journey.
 
